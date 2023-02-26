@@ -1,3 +1,4 @@
 # Netflix-Landing-Page
-Netflix Landing page using HTML CSS
-![pix](https://user-images.githubusercontent.com/74142521/221393109-1798bf62-cc00-490a-a23c-0847a49ad502.png)
+Netflix Clone using HTML CSS
+
+![screencapture-127-0-0-1-5500-index-html-2023-02-26-20_22_29](https://user-images.githubusercontent.com/74142521/221418022-fb38571d-8af9-4938-a081-1ff79be324bf.png)
